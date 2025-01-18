@@ -31,11 +31,11 @@ const sitemap = [
 const socials = [
   {
     label: "Facebook",
-    href: "/",
+    href: "https://www.facebook.com/MentorMasud/",
   },
   {
     label: "LinkedIn",
-    href: "/",
+    href: "https://www.linkedin.com/in/rana24bd",
   },
 ];
 

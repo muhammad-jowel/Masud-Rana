@@ -1,12 +1,12 @@
 const socialLinks = [
   {
-    href: "/",
+    href: "https://www.facebook.com/MentorMasud/",
     icon: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 24 24"
-        width="20"
-        height="20"
+        width="18"
+        height="18"
         fill="none"
       >
         <path
@@ -18,7 +18,7 @@ const socialLinks = [
     alt: "Facebook",
   },
   {
-    href: "/",
+    href: "https://www.linkedin.com/in/rana24bd",
     icon: (
       <svg
         width="24"
