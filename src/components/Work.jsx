@@ -51,7 +51,7 @@ const works = [
   },
   {
     imgSrc: "/images/project-2.jpg",
-    title: "Online Reputation Management",
+    title: "Reputation Management",
     tags: ["Reputation", "Trust"],
     projectLink: "/",
   },
@@ -63,7 +63,7 @@ const works = [
   },
   {
     imgSrc: "/images/project-4.jpg",
-    title: "Conversion Rate Optimization",
+    title: "Conversion Optimization",
     tags: ["CRO", "Sales"],
     projectLink: "/",
   },
@@ -102,5 +102,7 @@ const Work = () => {
     </section>
   );
 };
+
+
 
 export default Work;
